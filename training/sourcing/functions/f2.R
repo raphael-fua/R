@@ -1,0 +1,1 @@
+f2<-function(x){return(3*x)}

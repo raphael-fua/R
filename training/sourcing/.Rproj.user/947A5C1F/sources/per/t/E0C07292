@@ -1,0 +1,26 @@
+{
+    "id": "E0C07292",
+    "path": "~/Documents/GitHub/Thesis/R/training/function_arguments/functions/f.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "1523293179",
+    "contents": "",
+    "dirty": false,
+    "created": 1633966768937.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1633966803,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1633966803622,
+    "read_only": false,
+    "read_only_alternatives": []
+}

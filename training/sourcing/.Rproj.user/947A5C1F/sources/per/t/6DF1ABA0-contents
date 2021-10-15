@@ -1,0 +1,10 @@
+
+here()
+setwd()
+rm(list=ls())
+a_sourcer<-list.files('functions', full.names = T)
+
+
+
+a_sourcer<-list.files('functions', full.names = T)
+sapply(a_sourcer,source)
